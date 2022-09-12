@@ -42,7 +42,7 @@
     "jest": "^26.6.3",
     "mongodb-memory-server": "^6.9.2",
     "morgan": "^1.10.0",
-    "nodemon": "^2.0.6",
+    "nodemon": "^2.0.19",
     "prettier": "2.2.1",
     "supertest": "^6.0.1"
   }
